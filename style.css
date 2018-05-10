@@ -1,9 +1,11 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
+.landimg{
+  image-rendering: auto;
+  max-width: 100%;
+  height: auto;
+  width: auto;
 }
-
-.container {
-    width: 100%;
-    max-width: 960px;
+#map{
+  width: auto;
+  height: 800px;
+  padding-top: 150px!important;
 }
